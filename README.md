@@ -1,1 +1,1 @@
-﻿# react-firebase-template
+﻿# react-firebase-auth
